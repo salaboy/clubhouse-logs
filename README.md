@@ -1,6 +1,22 @@
 # Clubhouse Logs
 Clubhouse Call Logs and Notes about interesting chats with interesting people
 
+## 8/03/21: Bleeding Edge Kubernetes Projects Conversation
+- RSocket.io in Kubernetes
+  - What is RSocket? 
+    -   https://rsocket.io
+    -   https://www.infoq.com/news/2018/10/rsocket-facebook/
+    -   https://www.infoq.com/presentations/rsocket-cloud-native/
+  - How is that going to work in Kubernetes?
+  - Who is running it on K8s?
+- Operators:
+  - https://kudo.dev
+  - https://github.com/operator-framework/operator-sdk
+  - https://github.com/kubernetes-sigs/kubebuilder
+  - https://cloudnativetoolkit.dev
+  - Kubernetes Patterns: free ebook - chapter on operator
+  - Programming Kubernetes Book.
+
 ## 1/03/21: Bleeding Edge Kubernetes Projects Conversation
 
 **Scaling/Serverless**
