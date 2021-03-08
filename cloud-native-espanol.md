@@ -1,3 +1,6 @@
+
+# 8/03/21 - Cloud Native en español @ Clubhouse
+
 - Recursos para aprender Kubernetes: 
   -  https://github.com/ibm-cloud-architecture/learning-cloudnative-101
   -  https://kubernetesreadme.com
