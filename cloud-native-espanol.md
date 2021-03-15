@@ -1,4 +1,16 @@
 
+# 15/03/21- Cloud Native en español @ Clubhouse
+
+
+- Recap sobre recursos para aprender: 
+  - [Standalone Kuebernetes Examples by ContainerSolutions](https://github.com/ContainerSolutions/kubernetes-examples)
+
+Temas:
+- Cuanto de K8s/infrastructura tienen que saber los desarrolladores? Ejemplo https://github.com/shipa-corp/ketch 
+  - [Klustered -> rompiendo kubernetes clusters](https://www.youtube.com/watch?v=teB22ZuV_z8) 
+- Cuanto de seguridad tienen que saber los desarrolladores? https://github.com/kubernetes-simulator/simulator
+- Cuanto de supply-chain?  por ejemplo: https://github.com/in-toto/in-toto
+
 # 8/03/21 - Cloud Native en español @ Clubhouse
 
 - Recursos para aprender Kubernetes: 
