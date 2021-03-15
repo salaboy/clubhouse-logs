@@ -1,5 +1,10 @@
 # Clubhouse Logs
-Clubhouse Call Logs and Notes about interesting chats with interesting people
+Clubhouse Call Logs and Notes about interesting chats with interesting people.
+
+## 15/03/21: Bleeding Edge Kubernetes Projects Conversation
+- [Keptn](http://keptn.sh)
+- [Ketch](https://github.com/shipa-corp/ketch)
+- 
 
 ## 8/03/21: Bleeding Edge Kubernetes Projects Conversation
 - RSocket.io in Kubernetes
