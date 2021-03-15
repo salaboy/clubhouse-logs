@@ -3,8 +3,10 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people.
 
 ## 15/03/21: Bleeding Edge Kubernetes Projects Conversation
 - [Keptn](http://keptn.sh)
+- [https://kapitan.dev](http://kaptain.dev)
 - [Ketch](https://github.com/shipa-corp/ketch)
-- 
+- [kubectl passman](https://github.com/chrisns/kubectl-passman)
+
 
 ## 8/03/21: Bleeding Edge Kubernetes Projects Conversation
 - RSocket.io in Kubernetes
