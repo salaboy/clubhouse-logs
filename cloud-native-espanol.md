@@ -1,4 +1,11 @@
 
+# 22/03/21- Cloud Native en español @ Clubhouse
+
+- CI/CD 
+  - [Jenkins X](http://jenkins-x.io)
+- Supply Chain
+- Cloud Providers
+
 # 15/03/21- Cloud Native en español @ Clubhouse
 
 
