@@ -1,6 +1,10 @@
 # Clubhouse Logs
 Clubhouse Call Logs and Notes about interesting chats with interesting people.
 
+## 22/03/21: Bleeding Edge Kubernetes Projects Conversation
+- [Crossplane](http://crossplane.io)
+- [Flux CD](https://fluxcd.io)
+
 ## 15/03/21: Bleeding Edge Kubernetes Projects Conversation
 - [Keptn](http://keptn.sh) -> Delivery and deployment checking, with remediation and based on cloudevents
 - [https://kapitan.dev](http://kaptain.dev) -> Templating engine
