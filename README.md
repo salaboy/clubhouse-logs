@@ -6,6 +6,8 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people.
   - [Crossplane Providers]( https://crossplane.io/docs/v1.1/contributing/provider_development_guide.html)
   - [Extending Crossplane Provider template](https://github.com/crossplane/provider-template)
   - [Contrib Repositories](https://github.com/crossplane-contrib)
+  - [Introduction to Crossplane - Youtube](https://www.youtube.com/watch?v=c_ZU8ZxR00E)
+  - [Crossplane Kubernetes Podcast from Google](https://podcasts.google.com/feed/aHR0cHM6Ly9rdWJlcm5ldGVzcG9kY2FzdC5jb20vZmVlZHMvYXVkaW8ueG1s/episode/aHR0cHM6Ly9rdWJlcm5ldGVzcG9kY2FzdC5jb20vZXBpc29kZXMvS1BmR2VwMTQxLm1wMw?hl=en-GB&ved=2ahUKEwi1iYSj48TvAhVvaRUIHZIfCLYQjrkEegQIBhAF&ep=6)
 
 
 ## 15/03/21: Bleeding Edge Kubernetes Projects Conversation
