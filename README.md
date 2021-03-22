@@ -9,6 +9,7 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people.
   - [Introduction to Crossplane - Youtube](https://www.youtube.com/watch?v=c_ZU8ZxR00E)
   - [Crossplane Kubernetes Podcast from Google](https://podcasts.google.com/feed/aHR0cHM6Ly9rdWJlcm5ldGVzcG9kY2FzdC5jb20vZmVlZHMvYXVkaW8ueG1s/episode/aHR0cHM6Ly9rdWJlcm5ldGVzcG9kY2FzdC5jb20vZXBpc29kZXMvS1BmR2VwMTQxLm1wMw?hl=en-GB&ved=2ahUKEwi1iYSj48TvAhVvaRUIHZIfCLYQjrkEegQIBhAF&ep=6)
   - [Crossplane vs terraform](https://blog.crossplane.io/crossplane-vs-terraform/)
+  - [Crossplane community day](https://events.linuxfoundation.org/crossplane-community-day-europe/)
 
 
 ## 15/03/21: Bleeding Edge Kubernetes Projects Conversation
