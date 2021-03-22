@@ -3,7 +3,10 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people.
 
 ## 22/03/21: Bleeding Edge Kubernetes Projects Conversation
 - [Crossplane](http://crossplane.io)
-- [Flux CD](https://fluxcd.io)
+  - [Crossplane Providers]( https://crossplane.io/docs/v1.1/contributing/provider_development_guide.html)
+  - [Extending Crossplane Provider template](https://github.com/crossplane/provider-template)
+  - [Contrib Repositories](https://github.com/crossplane-contrib)
+
 
 ## 15/03/21: Bleeding Edge Kubernetes Projects Conversation
 - [Keptn](http://keptn.sh) -> Delivery and deployment checking, with remediation and based on cloudevents
