@@ -7,6 +7,7 @@
   - https://github.com/in-toto/in-toto
   - https://github.com/sigstore/cosign 
 - Cloud Providers
+- Seguridad: mirar: https://bridgecrew.io/
 
 # 15/03/21- Cloud Native en español @ Clubhouse
 
