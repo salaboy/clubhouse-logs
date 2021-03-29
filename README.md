@@ -5,6 +5,7 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people.
 - [K8Spin](https://k8spin.cloud)
   - Operator to solve Multi Tenancy inside a Kubernetes Cluster
   - Written in Python (Operator and Webhooks listener)
+    - Uses [CertManager](https://github.com/jetstack/cert-manager) for webhooks 
   - 3 CRDs: Organization, Tenant, Space
   - [Python Kubernetes Operator Framework](https://github.com/nolar/kopf)
 
