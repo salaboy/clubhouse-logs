@@ -3,11 +3,12 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people.
 
 ## 29/03/21: Bleeding Edge Kubernetes Projects Conversation
 - [K8Spin](https://k8spin.cloud)
-  - Operator to solve Multi Tenancy inside a Kubernetes Cluster
+  - [Operator](https://github.com/k8spin/k8spin-operator) to solve Multi Tenancy inside a Kubernetes Cluster
   - Written in Python (Operator and Webhooks listener)
     - Uses [CertManager](https://github.com/jetstack/cert-manager) for webhooks 
-  - 3 CRDs: Organization, Tenant, Space
+  - 3 CRDs: **Organization**, **Tenant**, **Space**
   - [Python Kubernetes Operator Framework](https://github.com/nolar/kopf)
+  - [Netassert](https://github.com/controlplaneio/netassert) validate network policies
 
 ## 22/03/21: Bleeding Edge Kubernetes Projects Conversation
 - [Crossplane](http://crossplane.io)
