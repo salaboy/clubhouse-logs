@@ -6,6 +6,7 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people.
   - Operator to solve Multi Tenancy inside a Kubernetes Cluster
   - Written in Python (Operator and Webhooks listener)
   - 3 CRDs: Organization, Tenant, Space
+  - [Python Kubernetes Operator Framework](https://github.com/nolar/kopf)
 
 ## 22/03/21: Bleeding Edge Kubernetes Projects Conversation
 - [Crossplane](http://crossplane.io)
