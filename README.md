@@ -1,6 +1,12 @@
 # Clubhouse Logs
 Clubhouse Call Logs and Notes about interesting chats with interesting people.
 
+## 29/03/21: Bleeding Edge Kubernetes Projects Conversation
+- [K8Spin](https://k8spin.cloud)
+  - Operator to solve Multi Tenancy inside a Kubernetes Cluster
+  - Written in Python (Operator and Webhooks listener)
+  - 3 CRDs: Organization, Tenant, Space
+
 ## 22/03/21: Bleeding Edge Kubernetes Projects Conversation
 - [Crossplane](http://crossplane.io)
   - [Crossplane Providers]( https://crossplane.io/docs/v1.1/contributing/provider_development_guide.html)
