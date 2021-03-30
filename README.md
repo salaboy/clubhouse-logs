@@ -6,9 +6,10 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people.
   - [Operator](https://github.com/k8spin/k8spin-operator) to solve Multi Tenancy inside a Kubernetes Cluster
   - Written in Python (Operator and Webhooks listener)
     - Uses [CertManager](https://github.com/jetstack/cert-manager) for webhooks 
-  - 3 CRDs: **Organization**, **Tenant**, **Space**
+  - 3 CRDs: **Organization**, **Tenant**, **Space**: Think or Orgnization as Organisation, Tenant as a Department & Space as a Team
   - [Python Kubernetes Operator Framework](https://github.com/nolar/kopf)
   - [Netassert](https://github.com/controlplaneio/netassert) validate network policies
+  - For further questions, get in touch with [Angel](https://twitter.com/AngelBarrera92) and/or [Pau](https://twitter.com/paurosello)
 
 ## 22/03/21: Bleeding Edge Kubernetes Projects Conversation
 - [Crossplane](http://crossplane.io)
