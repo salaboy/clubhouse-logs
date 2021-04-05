@@ -1,6 +1,13 @@
 # Clubhouse Logs
 Clubhouse Call Logs and Notes about interesting chats with interesting people.
 
+## 5/04/21: Bleeding Edge Kubernetes Projects Conversation
+- [Buildpacks](http://buildpacks.io)
+  - Build: pack build myapp --builder cnbs/sample-builder:bionic
+    https://github.com/buildpacks/samples/tree/main/buildpacks/java-maven
+  - Caching images: https://buildpacks.io/docs/app-developer-guide/using-cache-image/
+
+
 ## 29/03/21: Bleeding Edge Kubernetes Projects Conversation
 - [K8Spin](https://k8spin.cloud)
   - [Operator](https://github.com/k8spin/k8spin-operator) to solve Multi Tenancy inside a Kubernetes Cluster
