@@ -3,10 +3,14 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people.
 
 ## 5/04/21: Bleeding Edge Kubernetes Projects Conversation
 - [Buildpacks](http://buildpacks.io)
-  - Build: pack build myapp --builder cnbs/sample-builder:bionic
-    https://github.com/buildpacks/samples/tree/main/buildpacks/java-maven
-  - Caching images: https://buildpacks.io/docs/app-developer-guide/using-cache-image/
-
+  - Getting Started tutorial: 
+    - (Katacode Tutorial)[https://katacoda.com/buildpacks/scenarios/app-journey]  
+    - (On your machine)[https://buildpacks.io/docs/app-journey/]
+  - [Create your own buildpack](https://buildpacks.io/docs/buildpack-author-guide/create-buildpack/)
+  - Caching images speeds up building image: https://buildpacks.io/docs/app-developer-guide/using-cache-image/
+  - Use [Rebase](https://buildpacks.io/docs/concepts/operations/rebase/) to rapidly update an app image when its stack's run image has changed
+  - [Buildpack twitter](https://twitter.com/buildpacks_io)
+  - Thanks to [Joe](https://twitter.com/codefinger) & [Terrance](https://github.com/hone) from Buildpacks project for joining us and answering all our questions 
 
 ## 29/03/21: Bleeding Edge Kubernetes Projects Conversation
 - [K8Spin](https://k8spin.cloud)
