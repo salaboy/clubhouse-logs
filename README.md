@@ -4,8 +4,8 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people.
 ## 5/04/21: Bleeding Edge Kubernetes Projects Conversation
 - [Buildpacks](http://buildpacks.io)
   - Getting Started tutorial: 
-    - (Katacode Tutorial)[https://katacoda.com/buildpacks/scenarios/app-journey]  
-    - (On your machine)[https://buildpacks.io/docs/app-journey/]
+    - [Katacode Tutorial](https://katacoda.com/buildpacks/scenarios/app-journey)
+    - [On your machine](https://buildpacks.io/docs/app-journey/)
   - [Create your own buildpack](https://buildpacks.io/docs/buildpack-author-guide/create-buildpack/)
   - Caching images speeds up building image: https://buildpacks.io/docs/app-developer-guide/using-cache-image/
   - Use [Rebase](https://buildpacks.io/docs/concepts/operations/rebase/) to rapidly update an app image when its stack's run image has changed
