@@ -35,7 +35,7 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people.
 
 ## 15/03/21: Bleeding Edge Kubernetes Projects Conversation
 - [Keptn](http://keptn.sh) -> Delivery and deployment checking, with remediation and based on cloudevents
-- [https://kapitan.dev](http://kaptain.dev) -> Templating engine
+- [https://kapitan.dev](http://kapitan.dev) -> Templating engine
 - [kubectl passman](https://github.com/chrisns/kubectl-passman) -> password manager integration for KubeCtl
 - [cosign](https://github.com/sigstore/cosign) -> Signing container images
 
