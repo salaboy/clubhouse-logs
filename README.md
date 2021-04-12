@@ -1,6 +1,10 @@
 # Clubhouse Logs
 Clubhouse Call Logs and Notes about interesting chats with interesting people.
 
+## 12/04/21: Bleeding Edge Kubernetes Projects Conversation
+- [Project Velero](https://velero.io)
+  - 
+
 ## 5/04/21: Bleeding Edge Kubernetes Projects Conversation
 - [Buildpacks](http://buildpacks.io)
   - Getting Started tutorial: 
