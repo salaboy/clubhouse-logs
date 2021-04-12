@@ -3,6 +3,8 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people.
 
 ## 12/04/21: Bleeding Edge Kubernetes Projects Conversation
 - [Project Velero](https://velero.io)
+  - Backup ETCD resources and PVs/PVCs into buckets
+  - [Examples](https://velero.io/docs/v1.5/examples/)
   - 
 
 ## 5/04/21: Bleeding Edge Kubernetes Projects Conversation
