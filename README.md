@@ -8,6 +8,8 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people. I
 - Day to Day: 
   - kubectl
     -  Access via Dex and SSO for devs and infra people
+  - Creating Clusters
+    - Always check your clusters with: https://github.com/aquasecurity/kube-bench
   - 3rd Party dashboards
     - [octant.dev](http://octant.dev)  
     - K9s
@@ -15,7 +17,7 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people. I
     - Removing the noise
     - Aggregating data
     - Product, not Open Source[Tanzu Observability](https://tanzu.vmware.com/observability)
-- Issues:
+
 
 
 
