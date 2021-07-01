@@ -17,6 +17,9 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people. I
     - Removing the noise
     - Aggregating data
     - Product, not Open Source[Tanzu Observability](https://tanzu.vmware.com/observability)
+  - Remediation:
+    - [Keptn](http://keptn.sh)   
+   
 
 
 
