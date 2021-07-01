@@ -7,6 +7,7 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people. I
 
 - Day to Day: 
   - kubectl
+    -  Access via Dex and SSO for devs and infra people
   - 3rd Party dashboards
     - [octant.dev](http://octant.dev)  
     - K9s
