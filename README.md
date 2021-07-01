@@ -1,6 +1,12 @@
 # Clubhouse Logs
 Clubhouse Call Logs and Notes about interesting chats with interesting people.
 
+## 1/07/21: Bleeding Edge Kubernetes Projects Conversation
+
+**Main topic**: Troubleshooting, special thanks to Komodor.com for suggesting the topic
+
+
+
 ## 12/04/21: Bleeding Edge Kubernetes Projects Conversation
 - [Project Velero](https://velero.io)
   - Backup ETCD resources and PVs/PVCs into buckets
