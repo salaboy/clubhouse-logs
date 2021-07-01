@@ -1,5 +1,5 @@
 # Clubhouse Logs
-Clubhouse Call Logs and Notes about interesting chats with interesting people.
+Clubhouse Call Logs and Notes about interesting chats with interesting people. If you want to share: [bit.ly/ch-logs](bit.ly/ch-logs)
 
 ## 1/07/21: Bleeding Edge Kubernetes Projects Conversation
 
@@ -12,7 +12,7 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people.
 - [Project Velero](https://velero.io)
   - Backup ETCD resources and PVs/PVCs into buckets
   - [Examples](https://velero.io/docs/v1.5/examples/)
-  - 
+
 
 ## 5/04/21: Bleeding Edge Kubernetes Projects Conversation
 - [Buildpacks](http://buildpacks.io)
