@@ -3,7 +3,8 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people.
 
 ## 1/07/21: Bleeding Edge Kubernetes Projects Conversation
 
-**Main topic**: Troubleshooting, special thanks to Komodor.com for suggesting the topic
+**Main topic**: Troubleshooting, special thanks to [komodor.com](http://komodor.com) for suggesting the topic
+
 
 
 
