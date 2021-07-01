@@ -6,13 +6,16 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people. I
 **Main topic**: Troubleshooting, special thanks to [komodor.com](http://komodor.com) for suggesting the topic
 
 - Day to Day: 
-- Kubectl
-- 3rd Party dashboards
-  - Octant.dev  
-  - K9s
-- Observabiloity
-  - Removing the noise
-  - Aggregating data
+  - kubectl
+  - 3rd Party dashboards
+    - [octant.dev](http://octant.dev)  
+    - K9s
+  - Observability
+    - Removing the noise
+    - Aggregating data
+    - Product, not Open Source[Tanzu Observability](https://tanzu.vmware.com/observability)
+- Issues:
+
 
 
 
