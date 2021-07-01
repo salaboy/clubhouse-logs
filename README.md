@@ -5,6 +5,15 @@ Clubhouse Call Logs and Notes about interesting chats with interesting people. I
 
 **Main topic**: Troubleshooting, special thanks to [komodor.com](http://komodor.com) for suggesting the topic
 
+- Day to Day: 
+- Kubectl
+- 3rd Party dashboards
+  - Octant.dev  
+  - K9s
+- Observabiloity
+  - Removing the noise
+  - Aggregating data
+
 
 
 
